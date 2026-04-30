@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import scipy
  
  
 def compute_average_firing_rate(spike_counts, duration):
